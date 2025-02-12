@@ -1,0 +1,17 @@
+<VSTPluginProperties><VSTParametersStructure>
+	<Param id='0' name='Master Bypass' label='' type='switch'/>
+	<Param id='1' name='Osc 1 Attack Frequency' label='Hz'/>
+	<Param id='2' name='Osc 1 Sustain Frequency' label='Hz'/>
+	<Param id='3' name='Osc 1 Enable' label='' type='switch'/>
+	<Param id='4' name='Osc 1 Mix Gain' label='dB'/>
+	<Param id='5' name='Osc 2 Attack Frequency' label='Hz'/>
+	<Param id='6' name='Osc 2 Sustain Frequency' label='Hz'/>
+	<Param id='7' name='Osc 2 Enable' label='' type='switch'/>
+	<Param id='8' name='Osc 2 Mix Gain' label='dB'/>
+	<Param id='9' name='Envelope Attack' label='ms'/>
+	<Param id='10' name='Envelope Release' label='ms'/>
+	<Param id='11' name='Pitch Attack' label='ms'/>
+	<Param id='12' name='Pitch Release' label='ms'/>
+	<Param id='13' name='Wet/Dry' label='%'/>
+	<Param id='14' name='Output Gain' label='dB'/>
+</VSTParametersStructure></VSTPluginProperties>

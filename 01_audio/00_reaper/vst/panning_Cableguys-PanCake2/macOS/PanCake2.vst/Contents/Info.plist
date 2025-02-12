@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>PanCake2</string>
+			<key>factoryFunction</key>
+			<string>PanCakeAUFactory</string>
+			<key>manufacturer</key>
+			<string>Cabl</string>
+			<key>name</key>
+			<string>Cableguys: PanCake2</string>
+			<key>subtype</key>
+			<string>CGP1</string>
+			<key>type</key>
+			<string>kAudioUnitType_Effect</string>
+			<key>version</key>
+			<integer>131841</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>16B2555</string>
+	<key>CFBundleExecutable</key>
+	<string>PanCake2</string>
+	<key>CFBundleIdentifier</key>
+	<string>de.cableguys.pancake2.vst</string>
+	<key>CFBundleName</key>
+	<string>PanCake2</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.1</string>
+	<key>CFBundleSignature</key>
+	<string>Cabl</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2.3.1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8B62</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11E52</string>
+	<key>DTSDKName</key>
+	<string>macosx10.7</string>
+	<key>DTXcode</key>
+	<string>0810</string>
+	<key>DTXcodeBuild</key>
+	<string>8B62</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2007 - 2016 Cableguys</string>
+</dict>
+</plist>
